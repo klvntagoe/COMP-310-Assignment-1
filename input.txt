@@ -1,0 +1,2 @@
+ls; pwd; date; hostname; echo "Hello, my name is Kelvin Tagoe";
+
